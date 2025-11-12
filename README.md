@@ -9,7 +9,7 @@ The script uses the following libraries:
 - fiona
 - pandas
 
-In case one of the packages is not installed, you can do that in a jupyter notebook by typing 
+In case one of the packages is not installed, you can do that in a jupyter notebook by:
 
 ```python
 !pip install geopandas

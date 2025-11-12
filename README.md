@@ -22,20 +22,15 @@ In case one of the packages is not installed, you can do that in a jupyter noteb
 !pip install geopandas
 ```
 
-
-
 # 2. Run the script directly in QGIS
 In order to run the script directly in QGIS. Open python console:
 
+![image](python1.png)
 
-
-
-
-If necessary install the required packages by typing:
+If necessary install using the **1. input area** the required packages by typing :
 
 ```python
 !pip install geopandas
 ```
-Using the input area. 
 
-Next, open the editor and load the [script](), modify the variables and run it.
+Next, open the **3. editor** and load the [script](union_arch_rijksmonumenten.py), modify the variables and run it.
